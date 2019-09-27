@@ -81,6 +81,7 @@ Print a single line containing the minimum sum.
 
 # Sample Output
 11
+
 #  Pink Floyd and Happiness
 Pink is sad because of some reasons, he wants to cheer up by listening to some songs
 from his favorite band, Pink Floyd.
