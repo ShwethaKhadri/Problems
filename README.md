@@ -56,6 +56,7 @@ those on its right side.
 
 # Sample Output
 17 5 2
+
 # Frustrated coders
 There are N frustrated coders standing in a circle with a gun in their hands. Each coder
 has a skill value S[ i ] and he can only kill those coders that have strictly less skill than
